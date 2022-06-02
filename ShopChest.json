@@ -16,10 +16,6 @@
     "itemId": 115020,
     "containsItem": [
       {
-        "Id": 104013,
-        "Count": 25
-      },
-      {
         "Id": 202,
         "Count": 30000
       }
